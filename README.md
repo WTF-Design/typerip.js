@@ -4,7 +4,7 @@
 $ ./typerip.js "~/Library/Application Support/Adobe/CoreSync/plugins/livetype/.r"
 Looking in /Users/me/Library/Application Support/Adobe/CoreSync/plugins/livetype/.r/
 Found 10 obfuscated font file name(s).
-Renaming...
+Copying...
 .8420.otf => DepotNew-Bold.otf
 .8421.otf => DepotNew-BoldItalic.otf
 .8422.otf => DepotNew-Light.otf
